@@ -1,3 +1,5 @@
+<img src="/public/web-template.png"/>
+
 # ☕ Before The Coffee Gets Cold – Café Menu Web App
 
 > Inspired by a novel where a cup of coffee offers more than taste – it offers a journey through time.  
