@@ -1,93 +1,19 @@
-/* .collection-container {
-    position: absolute;
-    top: 123%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    z-index: 2;
-    width: 70%;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    align-content: center;
-    justify-content: center;
-    background-color: #1B1D1F;
-    border-radius: 10px;
-    padding: 20px;
-    margin-bottom: 8rem;
-}
-
-.collection-header-container {
-    padding-top: 30px;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
-}
-
-.collection-title {
-    color: #FEF7EE;
-    font-size: 32px;
-}
-
-.collection-discription {
-    color: #6F757C;
-    width: 49%;
-    text-align: center;
-    font-size: 16px;
-}
-
-.button-container {
-    padding: 10px;
-    border-radius: 10px;
-    display: flex;
-    gap: 10px;
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-content: center;
-    justify-content: center;
-    align-items: center;
-}
-
-.button-container button {
-    padding: 15px;
-    border-radius: 8px;
-    border: 0;
-    background-color: #6F757C;
-    font-size: 15px;
-    font-weight: 700;
-    color: #FEF7EE;
-    cursor: pointer;
-}
-
-.product-box-container {
-    margin-top: 50px;
-    display: flex;
-    width: 90%;
-    margin-right: auto;
-    margin-left: auto;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: flex-start;
-    align-content: center;
-} */
- .collection-container {
-    position: absolute;
-    top: 70%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+.collection-container {
+    position: relative;
+    top: -100px;
     z-index: 2;
     width: 80%;
     background-color: #1B1D1F;
     border-radius: 10px;
     padding: 2rem;
+    margin: 0 auto;
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 2rem;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
 }
+
 
 .collection-header-container {
     text-align: center;
