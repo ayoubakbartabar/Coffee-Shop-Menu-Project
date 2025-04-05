@@ -3,7 +3,7 @@ import {React ,  Children } from 'react'
 import './Product.css'
 
 // create function and export default 
-export default function Product({id,name,image,price,rating,votes,popular,available , soldOut})  {
+export default function Product({id,name,image,price,rating,votes,popular, soldOut})  {
     return(
         <div className="product-box">
             

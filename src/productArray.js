@@ -9,7 +9,7 @@ const productsArray = [
     rating: 4.7,
     votes: 65,
     popular: true,
-    available: true,
+    soldOut: false,
   },
   {
     id: 2,
@@ -20,7 +20,7 @@ const productsArray = [
     rating: 4.85,
     votes: 15,
     popular: true,
-    available: true,
+    soldOut: false,
   },
   {
     id: 3,
@@ -31,7 +31,6 @@ const productsArray = [
     rating: 4.9,
     votes: 55,
     popular: false,
-    available: true,
   },
   {
     id: 4,
@@ -42,7 +41,7 @@ const productsArray = [
     rating: 5,
     votes: 23,
     popular: false,
-    available: true,
+    soldOut: false,
   },
   {
     id: 5,
@@ -53,7 +52,7 @@ const productsArray = [
     rating: 4.65,
     votes: 122,
     popular: false,
-    available: false,
+    soldOut: false,
   },
   {
     id: 6,
@@ -64,8 +63,7 @@ const productsArray = [
     rating: null,
     votes: 0,
     popular: false,
-    available: true,
-    soldOut:true,
+    soldOut: true,
   },
 ];
- export default productsArray
+export default productsArray;
