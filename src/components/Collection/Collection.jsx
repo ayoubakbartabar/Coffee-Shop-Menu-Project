@@ -1,6 +1,8 @@
 // import 
 import './Collection.css'
 import Product from '../Product/Product.jsx'
+import productsArray from '../../productArray.js' 
+
 // create function and export default 
 export default function Collection({title ,text, children}){
 

@@ -67,3 +67,4 @@ const productsArray = [
     available: true,
   },
 ];
+ export default productsArray
