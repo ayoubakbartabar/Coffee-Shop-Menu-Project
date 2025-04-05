@@ -3,7 +3,9 @@
     padding: 2rem 0;
     background-color: transparent;
 }
-
-.author {
-    color: #fff;
+.author{
+    color: white;
+}
+.author-link{
+    color: white;
 }
