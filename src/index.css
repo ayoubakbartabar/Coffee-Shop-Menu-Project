@@ -8,4 +8,5 @@
 }
 body{
     font-family: "DMSans-VariableFont_opsz,wght";
+    overflow-x: hidden;
 }

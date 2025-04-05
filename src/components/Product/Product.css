@@ -16,6 +16,7 @@
     align-items: center;
     align-content: flex-start;
     font-weight: 700;
+    padding: 0 4px;
 }
 
 .product-value {
@@ -64,6 +65,7 @@
 
 .votes {
     color: #6F757C;
+    padding-right: 4px;
 }
 
 .sold-out {
