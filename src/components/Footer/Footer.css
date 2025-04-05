@@ -1,8 +1,18 @@
-.footer-container{
+/* .footer-container{
     position: absolute;
     bottom: -88%;
     right: 42.8%;
 }
 h3{
+    color: #fff;
+} */
+.footer-container {
+    margin-top: 200px;
+    text-align: center;
+    padding: 2rem 0;
+    background-color: transparent;
+}
+
+.author {
     color: #fff;
 }
