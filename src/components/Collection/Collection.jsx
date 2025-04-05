@@ -26,14 +26,18 @@ export default function Collection({title ,text, children}){
             </div>
 
             <div className="product-box-container">
-                <Product {...productsArray[0]}/>
-                <Product {...productsArray[1]}/>
+                {/* set map on array  */}
+                {productsArray.map(product =>(
+                    <Product {...product} key={product.id}/>
+
+                ))}
+                {/* <Product {...productsArray[1]}/>
                 <Product {...productsArray[2]}/>
                 <Product {...productsArray[3]}/>
                 <Product {...productsArray[4]}>
                     <div className='sold-out'>Sold out</div>
                 </Product>
-                <Product {...productsArray[5]}/>
+                <Product {...productsArray[5]}/> */}
             </div>
             
         </div>
