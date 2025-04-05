@@ -17,7 +17,7 @@ Just like the novel’s magical café where time travel is possible, this app le
 
 📲 Place a QR code on any table, and with a simple scan, customers will instantly access your digital café menu!
 
-[🔗 Click here for Live Demo]()
+[🔗 Click here for Live Demo](https://before-the-coffee-get-cold.netlify.app/)
 
 
 ## 🚀 Technologies Used
