@@ -29,6 +29,7 @@ Just like the novel’s magical café where time travel is possible, this app le
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" style="display: inline-block;"/>
 </p>
 
+---
 
 ## 🧠 Why This Project Stands Out
 
@@ -41,6 +42,11 @@ Just like the novel’s magical café where time travel is possible, this app le
 🛒 **Order Directly from the Table** – No waiting. No waving hands. Let your customers place their orders right from their seat.
 
 📱 **Fully Responsive** – Seamlessly works across all screen sizes – from smartphones to tablets.
+
+
+---
+
+
 
 ### 🚀 **Getting Started**
 
@@ -62,7 +68,8 @@ Wanna run this project locally? Follow these simple steps to get started in no t
    ```sh
    npm run dev
    ```
-   
+
+---
 ## 👤 About the Developer
 
 Crafted with passion by **[Ayoub Akbartabar](ayoubakbartabar1887@gmail.com)** – a developer who believes digital experiences should feel magical.  
