@@ -1,0 +1,69 @@
+.collection-container{
+    position: absolute;
+    top: 30%;
+    right: 15.8%;
+    margin-right: auto;
+    margin-left: auto;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    background-color: #1B1D1F;
+    border-radius: 10px;
+
+}
+.collection-header-container{
+    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.collection-title{
+    color:#FEF7EE ;
+    font-size: 32px  ;
+}
+
+.collection-discription{
+    color:#6F757C ;
+    width: 49%;
+    text-align: center;
+    font-size: 16px ;
+}
+.button-container{
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    gap: 10px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+.button-container button{
+    padding: 15px;
+    border-radius: 8px;
+    border: 0;
+    background-color: #6F757C;
+    font-size: 15px;
+    font-weight: 700;
+    color: #FEF7EE;
+    cursor: pointer;
+}
+.product-box-container{
+    margin-top: 50px;
+    display: flex;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    align-content: center;
+}

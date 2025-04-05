@@ -1,0 +1,11 @@
+:root{
+    max-width: 1700px;
+    background-color: #111315;
+}
+@font-face {
+    font-family: "DMSans-VariableFont_opsz,wght";
+    src: url(../public/font/DM_Sans/DMSans-VariableFont_opsz\,wght.ttf);
+}
+body{
+    font-family: "DMSans-VariableFont_opsz,wght";
+}
