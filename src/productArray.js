@@ -65,6 +65,7 @@ const productsArray = [
     votes: 0,
     popular: false,
     available: true,
+    soldOut:true,
   },
 ];
  export default productsArray

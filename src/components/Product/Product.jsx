@@ -1,9 +1,9 @@
 // import 
-import { Children } from 'react'
+import {React ,  Children } from 'react'
 import './Product.css'
 
 // create function and export default 
-export default function Product({id,name,image,price,rating,votes,popular,available , children})  {
+export default function Product({id,name,image,price,rating,votes,popular,available , soldOut})  {
     return(
         <div className="product-box">
             
@@ -24,7 +24,7 @@ export default function Product({id,name,image,price,rating,votes,popular,availa
                         <p className="rating">{rating}</p>
                         <p className="votes">({votes} votes)</p>
                     </span>
-                    {children}
+                    {soldOut ? <p className='sold-out'>SoldOut</p> : ''}
                 </div>
             </div>
         </div>
